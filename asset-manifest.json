@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Lab1_Goroshko_Dmitrienko%20/static/css/main.073c9b0a.css",
+    "main.js": "/Lab1_Goroshko_Dmitrienko%20/static/js/main.f1519c42.js",
+    "static/js/787.6074c9fb.chunk.js": "/Lab1_Goroshko_Dmitrienko%20/static/js/787.6074c9fb.chunk.js",
+    "static/media/logo.svg": "/Lab1_Goroshko_Dmitrienko%20/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Lab1_Goroshko_Dmitrienko%20/index.html",
+    "main.073c9b0a.css.map": "/Lab1_Goroshko_Dmitrienko%20/static/css/main.073c9b0a.css.map",
+    "main.f1519c42.js.map": "/Lab1_Goroshko_Dmitrienko%20/static/js/main.f1519c42.js.map",
+    "787.6074c9fb.chunk.js.map": "/Lab1_Goroshko_Dmitrienko%20/static/js/787.6074c9fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f1519c42.js"
+  ]
+}
